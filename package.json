@@ -1,0 +1,22 @@
+{
+  "name": "testegtm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivlfilipeOliveira/testegtm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlivlfilipeOliveira/testegtm/issues"
+  },
+  "homepage": "https://github.com/OlivlfilipeOliveira/testegtm#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
